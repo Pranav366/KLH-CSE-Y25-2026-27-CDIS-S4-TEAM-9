@@ -74,7 +74,7 @@ The following AWS services will be used in this project:
 **Course:** Cloud Infrastructure and Services  
 **Course Code:** 25CS2206E  
 **Project Team:** Team 9
-
+**Guide:**Dr. V. Sireesha
 ---
 
 ## Team Members
